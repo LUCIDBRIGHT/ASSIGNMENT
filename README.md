@@ -1,5 +1,6 @@
 # ASSIGNMENT
 #信息组织小组组员：张笑笑 刘佳雯 方振宇（排名不分先后）
+
 from flask import Flask, render_template, request
 import pymysql
 
